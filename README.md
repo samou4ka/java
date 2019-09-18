@@ -19,5 +19,7 @@ exit
 
 
 Simple Search Engine
+
 Good project for understanding of interfaces, inheritance and strategy pattern
+
 Change path in the code to file search.txt
