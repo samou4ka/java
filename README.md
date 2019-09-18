@@ -15,3 +15,9 @@ exit
 | (1,1) (2,1) (3,1) |
 
 ---------------------
+
+
+
+Simple Search Engine
+Good project for understanding of interfaces, inheritance and strategy pattern
+Change path in the code to file search.txt
