@@ -23,3 +23,21 @@ Simple Search Engine
 Good project for understanding of interfaces, inheritance and strategy pattern
 
 Change path in the code to file search.txt
+
+
+
+
+PhoneBook
+
+Describe something!!!
+
+
+
+
+
+MyContacts
+
+Excellent project to understand basics of OOP. Also, given theory (that I use in middle stages of creating project) about factory method and abstract factory pattern.
+
+
+
