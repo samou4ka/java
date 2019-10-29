@@ -40,4 +40,8 @@ MyContacts
 Excellent project to understand basics of OOP. Also, given theory (that I use in middle stages of creating project) about factory method and abstract factory pattern.
 
 
+---------------------
+
+File Type Analyzer
+Good project for understanding substring searching algorithms and multithreading (executors)
 
