@@ -43,5 +43,15 @@ Excellent project to understand basics of OOP. Also, given theory (that I use in
 ---------------------
 
 File Type Analyzer
+
 Good project for understanding substring searching algorithms and multithreading (executors)
+
+
+---------------------
+
+Readability score
+
+Excellent project to introduce different kinds of readability indexes. I practiced here in strategy pattern implementation.
+
+
 
