@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="VERSION" value="16" />
+      <option name="myUserTests">
+        <map />
+      </option>
+      <option name="course">
+        <HyperskillCourse>
+          <option name="authors">
+            <list />
+          </option>
+          <option name="courseMode" value="Study" />
+          <option name="customPresentableName" />
+          <option name="description" value="Everyone has their own personal reading history, and as we grow up, we are able to comprehend more and more complicated texts. But how do you estimate the level of difficulty of a given text, and how do you teach a computer to do that? In this project, you will find it out: write a program that determines how difficult the text is and for which age it is most suitable.&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/39&lt;/a&gt;" />
+          <option name="environment" value="" />
+          <option name="id" value="0" />
+          <option name="index" value="-1" />
+          <option name="language" value="JAVA 11" />
+          <option name="languageCode" value="en" />
+          <option name="name" value="Readability Score" />
+          <option name="stages">
+            <list>
+              <HyperskillStage>
+                <option name="id" value="205" />
+                <option name="stepId" value="5262" />
+                <option name="title" value="Simplest estimation" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="206" />
+                <option name="stepId" value="5263" />
+                <option name="title" value="Words and sentences" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="207" />
+                <option name="stepId" value="5264" />
+                <option name="title" value="Score!" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="208" />
+                <option name="stepId" value="5265" />
+                <option name="title" value="More parameters" />
+              </HyperskillStage>
+            </list>
+          </option>
+          <option name="taskToTopics">
+            <map>
+              <entry key="0">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="480" />
+                      <option name="theoryId" value="6577" />
+                      <option name="title" value="Command line overview" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="15" />
+                      <option name="theoryId" value="3500" />
+                      <option name="title" value="Introduction to Java" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="147" />
+                      <option name="theoryId" value="3522" />
+                      <option name="title" value="Basic literals" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="148" />
+                      <option name="theoryId" value="3521" />
+                      <option name="title" value="The first program" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="193" />
+                      <option name="theoryId" value="3749" />
+                      <option name="title" value="Printing data" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="14" />
+                      <option name="theoryId" value="3518" />
+                      <option name="title" value="Types and variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="30" />
+                      <option name="theoryId" value="3520" />
+                      <option name="title" value="Comments" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="112" />
+                      <option name="theoryId" value="3513" />
+                      <option name="title" value="Naming variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="146" />
+                      <option name="theoryId" value="3519" />
+                      <option name="title" value="Arithmetic operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="191" />
+                      <option name="theoryId" value="3739" />
+                      <option name="title" value="Write, compile and run" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="149" />
+                      <option name="theoryId" value="3499" />
+                      <option name="title" value="JVM, JRE and JDK" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="192" />
+                      <option name="theoryId" value="3746" />
+                      <option name="title" value="Running programs on your computer" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="113" />
+                      <option name="theoryId" value="3603" />
+                      <option name="title" value="Scanning the input" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="27" />
+                      <option name="theoryId" value="3565" />
+                      <option name="title" value="Integer types and operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="87" />
+                      <option name="theoryId" value="3516" />
+                      <option name="title" value="Boolean and logical operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="88" />
+                      <option name="theoryId" value="3512" />
+                      <option name="title" value="Relational operators" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="307" />
+                      <option name="theoryId" value="5008" />
+                      <option name="title" value="Increment and decrement" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="31" />
+                      <option name="theoryId" value="3514" />
+                      <option name="title" value="Characters" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="9" />
+                      <option name="theoryId" value="3523" />
+                      <option name="title" value="String" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="25" />
+                      <option name="theoryId" value="3503" />
+                      <option name="title" value="Conditional statement" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="1">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="259" />
+                      <option name="theoryId" value="3805" />
+                      <option name="title" value="IDE" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="577" />
+                      <option name="theoryId" value="7580" />
+                      <option name="title" value="Regexps basics" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="178" />
+                      <option name="theoryId" value="3670" />
+                      <option name="title" value="Regexps in Java" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="180" />
+                      <option name="theoryId" value="3674" />
+                      <option name="title" value="Sets, ranges, alternations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="181" />
+                      <option name="theoryId" value="3680" />
+                      <option name="title" value="Shorthands" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="182" />
+                      <option name="theoryId" value="3687" />
+                      <option name="title" value="Quantifiers" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="309" />
+                      <option name="theoryId" value="5035" />
+                      <option name="title" value="Primitive and reference types" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="4" />
+                      <option name="theoryId" value="3511" />
+                      <option name="title" value="Array" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="89" />
+                      <option name="theoryId" value="3505" />
+                      <option name="title" value="The for-loop" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="90" />
+                      <option name="theoryId" value="3498" />
+                      <option name="title" value="The while and do-while loops" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="19" />
+                      <option name="theoryId" value="3507" />
+                      <option name="title" value="Branching statements" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="97" />
+                      <option name="theoryId" value="3602" />
+                      <option name="title" value="Iterating over arrays" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="98" />
+                      <option name="theoryId" value="3551" />
+                      <option name="title" value="Processing strings" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="260" />
+                      <option name="theoryId" value="3801" />
+                      <option name="title" value="IntelliJ IDEA" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="387" />
+                      <option name="theoryId" value="5819" />
+                      <option name="title" value="IDEA Basics" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="391" />
+                      <option name="theoryId" value="5839" />
+                      <option name="title" value="EduTools" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="2">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="117" />
+                      <option name="theoryId" value="3614" />
+                      <option name="title" value="Introduction to OOP" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="502" />
+                      <option name="theoryId" value="6865" />
+                      <option name="title" value="Units of information" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="362" />
+                      <option name="theoryId" value="5544" />
+                      <option name="title" value="Binary numbers" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="60" />
+                      <option name="theoryId" value="3497" />
+                      <option name="title" value="What is an exception" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="59" />
+                      <option name="theoryId" value="3570" />
+                      <option name="title" value="Hierarchy of exceptions" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="65" />
+                      <option name="theoryId" value="3552" />
+                      <option name="title" value="Exception handling" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="172" />
+                      <option name="theoryId" value="3635" />
+                      <option name="title" value="Files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="173" />
+                      <option name="theoryId" value="3636" />
+                      <option name="title" value="Reading files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="161" />
+                      <option name="theoryId" value="3532" />
+                      <option name="title" value="Sizes and ranges" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="32" />
+                      <option name="theoryId" value="3510" />
+                      <option name="title" value="Type casting" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="163" />
+                      <option name="theoryId" value="3536" />
+                      <option name="title" value="Errors in programs" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="36" />
+                      <option name="theoryId" value="3517" />
+                      <option name="title" value="Floating-point types" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="94" />
+                      <option name="theoryId" value="3590" />
+                      <option name="title" value="Defining methods" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="1" />
+                      <option name="theoryId" value="3489" />
+                      <option name="title" value="The main method" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="99" />
+                      <option name="theoryId" value="3594" />
+                      <option name="title" value="Arrays as parameters" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="111" />
+                      <option name="theoryId" value="3566" />
+                      <option name="title" value="Command-line arguments" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="115" />
+                      <option name="theoryId" value="3618" />
+                      <option name="title" value="Defining classes" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="7" />
+                      <option name="theoryId" value="3621" />
+                      <option name="title" value="Package" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="17" />
+                      <option name="theoryId" value="3535" />
+                      <option name="title" value="Constructor" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="96" />
+                      <option name="theoryId" value="4727" />
+                      <option name="title" value="Objects" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="3">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="66" />
+                      <option name="theoryId" value="3501" />
+                      <option name="title" value="Math library" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="updateDate" value="0" />
+          <option name="hyperskillProject">
+            <HyperskillProject>
+              <option name="description" value="Everyone has their own personal reading history, and as we grow up, we are able to comprehend more and more complicated texts. But how do you estimate the level of difficulty of a given text, and how do you teach a computer to do that? In this project, you will find it out: write a program that determines how difficult the text is and for which age it is most suitable." />
+              <option name="id" value="39" />
+              <option name="ideFiles" value="https://stepik.org/media/attachments/lesson/203019/additional_files.json" />
+              <option name="language" value="java" />
+              <option name="templateBased" value="false" />
+              <option name="title" value="Readability Score" />
+              <option name="useIde" value="true" />
+            </HyperskillProject>
+          </option>
+          <option name="items">
+            <list>
+              <FrameworkLesson>
+                <option name="currentTaskIndex" value="3" />
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="1" />
+                <option name="name" value="Readability Score" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
+                <option name="items">
+                  <list>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage1" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Ever wonder, how to estimate if the text is hard or easy to read? This is pretty easy for a human - you just read the text and feel if you struggling or not. But how to teach the computer to do that? In this project, you will write such a program.&lt;/p&gt;&#10;&#10;&lt;p&gt;Firstly, let's create a simple one. If the text contains more than 100 symbols (including spacebars and punctuation) then the text is considered hard to read. Else, the text is considered easy to read. If the text contains exactly 100 symbols then it is still easy to read.&lt;/p&gt;&#10;&#10;&lt;p&gt;The input contains a single line with text. Output &quot;HARD&quot; if the text is hard to read and &quot;EASY&quot; if the text is easy to read.&lt;/p&gt;&#10;&#10;&lt;h2&gt;Output examples&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;This text is simple to read!&#10;EASY&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;This text is hard to read. It contains a lot of sentences as well as a lot of words in each sentence.&#10;HARD&lt;/code&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/39/stages/205/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5262" />
+                      <option name="index" value="1" />
+                      <option name="name" value="Simplest estimation" />
+                      <option name="record" value="1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/readability/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/readability/Main.java" />
+                                <option name="text" value="package readability;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.print(&quot;Hello world!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/ReadabilityTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ReadabilityTest.java" />
+                                <option name="text" value="import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.CheckResult;&#10;import org.hyperskill.hstest.v6.testcase.TestCase;&#10;import readability.Main;&#10;&#10;import java.util.List;&#10;&#10;&#10;public class ReadabilityTest extends BaseStageTest&lt;String&gt; {&#10;&#10;    public ReadabilityTest() {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;String&gt;&gt; generate() {&#10;&#10;        List&lt;TestCase&lt;String&gt;&gt; tests = List.of(&#10;            new TestCase&lt;String&gt;()&#10;                .setInput(&quot;This text is simple to read!&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .setInput(&quot;This text is hard to read. &quot; +&#10;                    &quot;It contains a lot of sentences as well as a lot of words in each sentence.&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .setInput(&quot;1&quot;.repeat(99)),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .setInput(&quot; &quot;.repeat(100)),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .setInput(&quot;q&quot;.repeat(101))&#10;        );&#10;&#10;        for (TestCase&lt;String&gt; test : tests) {&#10;            test.setAttach(test.getInput());&#10;        }&#10;&#10;        return tests;&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, String clue) {&#10;        String solution = solve(clue);&#10;        boolean isSuccess = reply.strip().equals(solution.strip());&#10;        return new CheckResult(isSuccess);&#10;    }&#10;&#10;    private String solve(String input) {&#10;        return input.length() &gt; 100 ? &quot;HARD&quot; : &quot;EASY&quot;;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage2" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;But the real text can be pretty long and still can be easy to read isn't it? There need to be done another approach. How about calculating a number of words in each sentence? Clearly, if each sentence of the text contains a lot of words then this text is hard to read.&lt;/p&gt;&#10;&#10;&lt;p&gt;Let's suppose that if the text contains on average more than 10 words per sentence, then this text is hard to read. Otherwise, this text is easy to read. Don't worry, we will consider more scientific ways in the next stages.&lt;/p&gt;&#10;&#10;&lt;p&gt;The input contains a single line with text. Output &quot;HARD&quot; if the text is hard to read and &quot;EASY&quot; if the text is easy to read.&lt;/p&gt;&#10;&#10;&lt;p&gt;For example, the first example contains two sentences with 6 and 10 words (numbers also counts as words) so the average is 8 and this is less than 10. In the second example, there is also 2 sentences but with 6 and 16 words so the average is 11 and this is greater than 10. If the average is equal to 10 then the text is still considered easy to read.&lt;/p&gt;&#10;&#10;&lt;p&gt;Don't forget that the sentences can end with a dot as well as with an exclamation mark and a question mark. But the last sentence can be with or without a punctuation character at the end.&lt;/p&gt;&#10;&#10;&lt;h2&gt;Output examples&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;This text is simple to read! It has on average less than 10 words per sentence.&#10;EASY&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;This text is hard to read. It contains a lot of sentenses as well as a lot of words in each sentence&#10;HARD&lt;/code&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/39/stages/206/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5263" />
+                      <option name="index" value="2" />
+                      <option name="name" value="Words and sentences" />
+                      <option name="record" value="2" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/ReadabilityTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ReadabilityTest.java" />
+                                <option name="text" value="import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.PredefinedIOTestCase;&#10;import readability.Main;&#10;&#10;import java.util.List;&#10;&#10;&#10;public class ReadabilityTest extends BaseStageTest {&#10;&#10;    public ReadabilityTest() {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;PredefinedIOTestCase&gt; generate() {&#10;        return List.of(&#10;            new PredefinedIOTestCase(&quot;This text is simple to read! &quot; +&#10;                &quot;It has on average less than 10 words per sentence.&quot;,&#10;                &quot;EASY&quot;),&#10;&#10;            new PredefinedIOTestCase(&quot;This text is hard to read. &quot; +&#10;                &quot;It contains a lot of sentences as well as a lot of words in each sentence&quot;,&#10;                &quot;HARD&quot;),&#10;&#10;            new PredefinedIOTestCase(&quot;1 &quot;.repeat(99) + &quot;1. 1. 1.&quot;,&#10;                &quot;HARD&quot;),&#10;&#10;            new PredefinedIOTestCase(&quot;12, 12 13 14 14 14, &quot; +&#10;                &quot;12 21 23 89! 75 12, 134 241 123, 123 123 123, 123 123 &quot; +&#10;                &quot;123? 123, 123 123 123 23 123 213 123 123 123.&quot;,&#10;                &quot;HARD&quot;),&#10;&#10;            new PredefinedIOTestCase(&quot;12, 12 13 14 14 14, 12 21 23 89! &quot; +&#10;                &quot;75 12, 241 123, 123 123 123, 123 123 123? 123, &quot; +&#10;                &quot;123 123 123 23 123 213 123 123 123.&quot;,&#10;                &quot;EASY&quot;),&#10;&#10;            new PredefinedIOTestCase( &quot;Readability is the ease with which a &quot; +&#10;                &quot;reader can understand a written text. In natural language, the &quot; +&#10;                &quot;readability of text depends on its content and its presentation. &quot; +&#10;                &quot;Researchers have used various factors to measure readability. And that is it!&quot;,&#10;                &quot;EASY&quot;)&#10;        );&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/readability/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/readability/Main.java" />
+                                <option name="text" value="package readability;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;&#10;        String text = scanner.nextLine();&#10;        if(text.length() &gt; 100) {&#10;            System.out.println(&quot;HARD&quot;);&#10;        } else {&#10;            System.out.println(&quot;EASY&quot;);&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage3" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;In this stage, you will program the &lt;strong&gt;Automated readability index&lt;/strong&gt;. It was introduced in 1968 and a lot of research works rely on this.The index is calculated by the following formula:&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;span class=&quot;math-tex&quot;&gt;\(score = 4.71 \times \dfrac{characters}{words} + 0.5 \times \dfrac{words}{sentences} - 21.43\)&lt;/span&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;You can look at different ages corresponding to the different scores by the table in &lt;a href=&quot;https://en.wikipedia.org/wiki/Automated_readability_index&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;this&lt;/a&gt; article.&lt;/p&gt;&#10;&#10;&lt;p&gt;Also, your program should read a file instead of typing a text manually. You should pass the filename through the command line arguments.&lt;/p&gt;&#10;&#10;&lt;p&gt;The program should output the score itself and an approximate age needed to comprehend the text.&lt;br&gt;&#10;Use rounding function to calculate the score as integer.&lt;/p&gt;&#10;&#10;&lt;p&gt;You should also print how many characters, words, and sentences the text has.&lt;/p&gt;&#10;&#10;&lt;p&gt;The number of characters is any visible symbol (so, in the real text it's everything except space, newline &quot;\n&quot; and tab &quot;\t&quot;).&lt;/p&gt;&#10;&#10;&lt;p&gt;Notice, that the text can contain multiple lines, not just a single line like in the previous stages. You should analyze all the lines.&lt;/p&gt;&#10;&#10;&lt;h2&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;java Main in.txt&#10;The text is:&#10;Readability is the ease with which a reader can understand a written text. In natural language, the readability of text depends on its content and its presentation. Researchers have used various factors to measure readability. Readability is more than simply legibility, which is a measure of how easily a reader can distinguish individual letters or characters from each other. Higher readability eases reading effort and speed for any reader, but it is especially important for those who do not have high reading comprehension. In readers with poor reading comprehension, raising the readability level of a text from mediocre to good can make the difference between success and failure&#10;&#10;Words: 108&#10;Sentences: 6&#10;Characters: 580&#10;The score is: 12.86&#10;This text should be understood by 18-24 year olds.&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;java Main in.txt&#10;The text is:&#10;This is the page of the Simple English Wikipedia. A place where people work together to write encyclopedias in different languages. That includes children and adults who are learning English. There are 142,262 articles on the Simple English Wikipedia. All of the pages are free to use. They have all been published under both the Creative Commons License 3 and the GNU Free Documentation License. You can help here! You may change these pages and make new pages. Read the help pages and other good pages to learn how to write pages here. You may ask questions at Simple talk.&#10;&#10;Words: 100&#10;Sentences: 10&#10;Characters: 476&#10;The score is: 9.32&#10;This text should be understood by 14-15 year olds. &lt;/code&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/39/stages/207/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5264" />
+                      <option name="index" value="3" />
+                      <option name="name" value="Score!" />
+                      <option name="record" value="3" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/ReadabilityTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ReadabilityTest.java" />
+                                <option name="text" value="import org.hyperskill.hstest.v6.testcase.CheckResult;&#10;import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.TestCase;&#10;import readability.Main;&#10;&#10;import java.util.List;&#10;&#10;import static java.lang.Math.abs;&#10;&#10;&#10;class TestClue {&#10;&#10;    int words;&#10;    int sentences;&#10;    int characters;&#10;&#10;    double score;&#10;    String age;&#10;&#10;    TestClue(int words, int chars, int sentences, double score, String age) {&#10;        this.words = words;&#10;        this.sentences = sentences;&#10;        this.characters = chars;&#10;        this.score = score;&#10;        this.age = age;&#10;    }&#10;}&#10;&#10;&#10;public class ReadabilityTest extends BaseStageTest&lt;TestClue&gt; {&#10;&#10;    public ReadabilityTest() {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;TestClue&gt;&gt; generate() {&#10;        return List.of(&#10;            new TestCase&lt;TestClue&gt;().setAttach(new TestClue(&#10;                108,&#10;                580,&#10;                6,&#10;                12.86,&#10;                &quot;18-24&quot;))&#10;                .addFile(&quot;input.txt&quot;,&#10;                &quot;Readability is &quot; +&#10;                    &quot;the ease with which a reader can &quot; +&#10;                    &quot;understand a written text. In natural &quot; +&#10;                    &quot;language, the readability of text depends &quot; +&#10;                    &quot;on its content and its presentation. &quot; +&#10;                    &quot;Researchers have used various factors &quot; +&#10;                    &quot;to measure readability. Readability is &quot; +&#10;                    &quot;more than simply legibility, which is a &quot; +&#10;                    &quot;measure of how easily a reader can distinguish &quot; +&#10;                    &quot;individual letters or characters from each other. &quot; +&#10;                    &quot;Higher readability eases reading effort and speed &quot; +&#10;                    &quot;for any reader, but it is especially important for &quot; +&#10;                    &quot;those who do not have high reading comprehension. &quot; +&#10;                    &quot;In readers with poor reading comprehension, raising &quot; +&#10;                    &quot;the readability level of a text from mediocre to good &quot; +&#10;                    &quot;can make the difference between success and failure&quot;)&#10;                .addArguments(&quot;input.txt&quot;),&#10;&#10;            new TestCase&lt;TestClue&gt;().setAttach(new TestClue(&#10;                100,&#10;                476,&#10;                10,&#10;                9.32,&#10;                &quot;14-15&quot;))&#10;                .addFile(&quot;in.txt&quot;,&#10;                &quot;This is the page of the Simple English Wikipedia. &quot; +&#10;                    &quot;A place where people work together to write encyclopedias &quot; +&#10;                    &quot;in different languages. That includes children and adults &quot; +&#10;                    &quot;who are learning English. There are 142,262 articles on the &quot; +&#10;                    &quot;Simple English Wikipedia. All of the pages are free to use. &quot; +&#10;                    &quot;They have all been published under both the Creative Commons&quot; +&#10;                    &quot; Attribution/Share-Alike License 3 and the GNU Free Documentation License. &quot; +&#10;                    &quot;You can help here! You may change these pages and make new &quot; +&#10;                    &quot;pages. Read the help pages and other good pages to learn &quot; +&#10;                    &quot;how to write pages here. You may ask questions at Simple talk.&quot;)&#10;                .addArguments(&quot;in.txt&quot;),&#10;&#10;            new TestCase&lt;TestClue&gt;().setAttach(new TestClue(&#10;                180,&#10;                982,&#10;                13,&#10;                11.19,&#10;                &quot;16-17&quot;))&#10;                .addFile(&quot;in.txt&quot;,&#10;                &quot;Gothic architecture are building designs, &quot; +&#10;                    &quot;as first pioneered in Western Europe in the Middle Ages. &quot; +&#10;                    &quot;It began in France in the 12th century. The Gothic style &quot; +&#10;                    &quot;grew out of Romanesque architecture. It lasted until the &quot; +&#10;                    &quot;16th century. By that time the Renaissance style of &quot; +&#10;                    &quot;architecture had become popular. The important features &quot; +&#10;                    &quot;of Gothic architecture are the pointed arch, the ribbed &quot; +&#10;                    &quot;vault, the flying buttress, and stained glass windows &quot; +&#10;                    &quot;which are explained below. Gothic architecture is best &quot; +&#10;                    &quot;known as the style of many &quot; +&#10;                    &quot;of the great cathedrals, abbeys and churches of Europe. &quot; +&#10;                    &quot;It is also the architecture of many castles, palaces, &quot; +&#10;                    &quot;town halls, universities, and also some houses. &quot; +&#10;                    &quot;Many church buildings still remain from this period. &quot; +&#10;                    &quot;Even the smallest Gothic churches are often very beautiful, &quot; +&#10;                    &quot;while many of the larger churches and cathedrals are &quot; +&#10;                    &quot;thought to be priceless works of art. Many are listed &quot; +&#10;                    &quot;with the United Nations Educational, Scientific and &quot; +&#10;                    &quot;Cultural Organization (UNESCO) as World Heritage Sites. &quot; +&#10;                    &quot;In the 19th century, the Gothic style became popular &quot; +&#10;                    &quot;again, particularly for building churches and universities. &quot; +&#10;                    &quot;This style is called Gothic Revival architecture.&quot;)&#10;                .addArguments(&quot;in.txt&quot;)&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, TestClue clue) {&#10;&#10;        boolean foundWords = false;&#10;        boolean foundSentences = false;&#10;        boolean foundChars = false;&#10;        boolean foundScore = false;&#10;        boolean foundAge = false;&#10;&#10;        for (Object lineObj : reply.lines().toArray()) {&#10;            String line = (String) lineObj;&#10;            line = line.toLowerCase();&#10;            if (line.contains(&quot;words:&quot;)) {&#10;                foundWords = true;&#10;                if (!line.contains(String.valueOf(clue.words))) {&#10;                    return new CheckResult(false, &quot;Wrong number of words&quot;);&#10;                }&#10;            }&#10;            if (line.contains(&quot;sentences:&quot;)) {&#10;                foundSentences = true;&#10;                if (!line.contains(String.valueOf(clue.sentences))) {&#10;                    return new CheckResult(false, &quot;Wrong number of sentences&quot;);&#10;                }&#10;            }&#10;            if (line.contains(&quot;characters:&quot;)) {&#10;                foundChars = true;&#10;                if (!line.contains(String.valueOf(clue.characters))) {&#10;                    return new CheckResult(false, &quot;Wrong number of characters&quot;);&#10;                }&#10;            }&#10;            if (line.contains(&quot;score is:&quot;)) {&#10;                foundScore = true;&#10;                double actualScore = Double.parseDouble(line.split(&quot;:&quot;)[1]);&#10;                if (abs(actualScore - clue.score) &gt; 0.2) {&#10;                    return new CheckResult(false, &quot;Wrong score&quot;);&#10;                }&#10;            }&#10;            if (line.contains(&quot;year olds&quot;)) {&#10;                foundAge = true;&#10;                if (!line.contains(clue.age)) {&#10;                    return new CheckResult(false, &quot;Wrong age&quot;);&#10;                }&#10;            }&#10;        }&#10;&#10;        if (!foundWords) {&#10;            return new CheckResult(false, &quot;There is no words amount&quot;);&#10;        }&#10;&#10;        if (!foundSentences) {&#10;            return new CheckResult(false, &quot;There is no sentences amount&quot;);&#10;        }&#10;&#10;        if (!foundChars) {&#10;            return new CheckResult(false, &quot;There is no characters amount&quot;);&#10;        }&#10;&#10;        if (!foundScore) {&#10;            return new CheckResult(false, &quot;There is no score in output&quot;);&#10;        }&#10;&#10;        if (!foundAge) {&#10;            return new CheckResult(false, &quot;There is no age in output&quot;);&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/readability/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/readability/Main.java" />
+                                <option name="text" value="package readability;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;&#10;        String text = scanner.nextLine();&#10;&#10;        String[] sentences = text.trim().split(&quot;(!|\\?|\\.)&quot;);&#10;        double avSentenceLength = 0;&#10;        for(String sentence : sentences) {&#10;            String[] words = sentence.trim().split(&quot;\\s&quot;);&#10;            avSentenceLength += words.length;&#10;        }&#10;        avSentenceLength /= sentences.length;&#10;        if(avSentenceLength &gt; 10) {&#10;            System.out.println(&quot;HARD&quot;);&#10;        } else {&#10;            System.out.println(&quot;EASY&quot;);&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/readability/Strategy.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/readability/Strategy.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/readability/ARIndex.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/readability/ARIndex.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/readability/ContextIndex.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/readability/ContextIndex.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage4" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;In this stage, you should implement various other scientific approaches to calculate a readability score.&lt;/p&gt;&#10;&#10;&lt;p&gt;You can look at different ages corresponding to the different scores by the table in &lt;a href=&quot;https://en.wikipedia.org/wiki/Automated_readability_index&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;this&lt;/a&gt; article. This table is suitable for all the algorithms described in this stage. To calculate the age use &lt;strong&gt;upper bound&lt;/strong&gt; of the range. For example, if the range is &lt;code&gt;12-13 year olds&lt;/code&gt; then it's upper bound is &lt;code&gt;13 year olds&lt;/code&gt;.&lt;/p&gt;&#10;&#10;&lt;p&gt;The first one is &lt;strong&gt;Flesch–Kincaid readability tests&lt;/strong&gt;. To calculate this, you also need to create a method that calculates a number of syllables in a word. The formula is listed below. You can learn more &lt;a href=&quot;https://en.wikipedia.org/wiki/Flesch–Kincaid_readability_tests&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt;. You can use the second formula to calculate the index - it allows you to easily calculate the age of a person using the same table from the Automated Readability Index.&lt;/p&gt;&#10;&#10;&lt;p&gt;$ score = 0.39 * \dfrac{words}{sentences} + 11.8 * \dfrac{syllables}{words} - 15.59 $&lt;/p&gt;&#10;&#10;&lt;p&gt;The second one is &lt;strong&gt;SMOG index&lt;/strong&gt;. It stands for Simple Measure of Gobbledygook. To calculate this, you need to count the number of polysyllables which is the number of words with more than 2 syllables. The formula is shown below. You can find out more &lt;a href=&quot;https://en.wikipedia.org/wiki/SMOG&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt;. The Wikipedia page says that at least 30 sentences are required for this index to work properly. Don't pay attention to this, just keep it in mind when you use this index in real life. As in the previous example, the grade level is calculated here, so to get the age of a person you need to use the table from the first link.&lt;/p&gt;&#10;&#10;&lt;p&gt;$ score = 1.043 * \sqrt{polysyllables * \dfrac{30}{sentences}} + 3.1291 $&lt;/p&gt;&#10;&#10;&lt;p&gt;The next one is &lt;strong&gt;Coleman–Liau index&lt;/strong&gt;. The formula is shown below. You can find out more &lt;a href=&quot;http://en.wikipedia.org/wiki/Coleman–Liau_index&quot; rel=&quot;noopener noreferrer nofollow&quot;&gt;here&lt;/a&gt;. L is the average number of characters per 100 words and S is the average number of sentences per 100 words. Like all other indexes, the output is a person's grade level. Like all other indexes, the result is a minimum grade level of the person needed to understand this text.&lt;/p&gt;&#10;&#10;&lt;p&gt;$ score = 0.0588 * L - 0.296 * S - 15.8 $&lt;/p&gt;&#10;&#10;&lt;p&gt;So, in this stage, you should program all three approaches. Don't forget about the &lt;strong&gt;Automated readability index&lt;/strong&gt; - it should also be here. Also, there should be an option to choose all methods at the same time.&lt;/p&gt;&#10;&#10;&lt;p&gt;To count the number of syllables you should use letters a, e, i, o, u, y as vowels. You can see &lt;a href=&quot;https://simple.wikipedia.org/wiki/Vowel&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt; examples and difficulties with determining vowels in a word with 100% accuracy. So, let's use the following 4 rules:&lt;/p&gt;&#10;&#10;&lt;p&gt;1. Count the number of vowels in the word.&lt;br&gt;&#10;2. Do not count double-vowels (for example, &quot;rain&quot; has 2 vowels but is only 1 syllable)&lt;br&gt;&#10;3. If the last letter in the word is 'e' do not count it as a vowel (for example, &quot;side&quot; is 1 syllable) &lt;br&gt;&#10;4. If at the end it turns out that the word contains 0 vowels, then consider this word as 1-syllable.&lt;/p&gt;&#10;&#10;&lt;h2&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;java Main in.txt&#10;The text is:&#10;This is the front page of the Simple English Wikipedia. Wikipedias are places where people work together to write encyclopedias in different languages. We use Simple English words and grammar here. The Simple English Wikipedia is for everyone! That includes children and adults who are learning English. There are 142,262 articles on the Simple English Wikipedia. All of the pages are free to use. They have all been published under both the Creative Commons License and the GNU Free Documentation License. You can help here! You may change these pages and make new pages. Read the help pages and other good pages to learn how to write pages here. If you need help, you may ask questions at Simple talk. Use Basic English vocabulary and shorter sentences. This allows people to understand normally complex terms or phrases.&#10;&#10;Words: 137&#10;Sentences: 14&#10;Characters: 687&#10;Syllables: 210&#10;Polysyllables: 17&#10;Enter the score you want to calculate (ARI, FK, SMOG, CL, all): all&#10;&#10;Automated Readability Index: 7.08 (about 13 year olds).&#10;Flesch–Kincaid readability tests: 6.31 (about 12 year olds).&#10;Simple Measure of Gobbledygook: 9.42 (about 15 year olds).&#10;Coleman–Liau index: 10.66 (about 17 year olds).&#10;&#10;This text should be understood in average by 14.25 year olds.&lt;/code&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/39/stages/208/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5265" />
+                      <option name="index" value="4" />
+                      <option name="name" value="More parameters" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/ReadabilityTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ReadabilityTest.java" />
+                                <option name="text" value="import org.hyperskill.hstest.v6.testcase.CheckResult;&#10;import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.TestCase;&#10;import readability.Main;&#10;&#10;import java.util.List;&#10;&#10;import static java.lang.Math.abs;&#10;&#10;&#10;class TestClue {&#10;&#10;    int words;&#10;    int sentences;&#10;    int characters;&#10;    int syllables;&#10;    int polysyllables;&#10;&#10;    double ari;&#10;    double fkri;&#10;    double smog;&#10;    double cli;&#10;&#10;    TestClue(int words,&#10;             int chars,&#10;             int sentences,&#10;             int syllables,&#10;             int polysyllables,&#10;             double ari,&#10;             double fkri,&#10;             double smog,&#10;             double cli) {&#10;        this.words = words;&#10;        this.sentences = sentences;&#10;        this.characters = chars;&#10;        this.syllables = syllables;&#10;        this.polysyllables = polysyllables;&#10;        this.ari = ari;&#10;        this.fkri = fkri;&#10;        this.smog = smog;&#10;        this.cli = cli;&#10;    }&#10;}&#10;&#10;&#10;public class ReadabilityTest extends BaseStageTest&lt;TestClue&gt; {&#10;&#10;    public ReadabilityTest() {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;TestClue&gt;&gt; generate() {&#10;        return List.of(&#10;            new TestCase&lt;TestClue&gt;().setAttach(new TestClue(&#10;                108,&#10;                580,&#10;                6,&#10;                196,&#10;                20,&#10;                12.86,&#10;                12.84,&#10;                13.56,&#10;                14.13))&#10;                .addFile(&quot;input.txt&quot;,&#10;                    &quot;Readability is &quot; +&#10;                        &quot;the ease with which a reader can &quot; +&#10;                        &quot;understand a written text. In natural &quot; +&#10;                        &quot;language, the readability of text depends &quot; +&#10;                        &quot;on its content and its presentation. &quot; +&#10;                        &quot;Researchers have used various factors &quot; +&#10;                        &quot;to measure readability. Readability is &quot; +&#10;                        &quot;more than simply legibility, which is a &quot; +&#10;                        &quot;measure of how easily a reader can distinguish &quot; +&#10;                        &quot;individual letters or characters from each other. &quot; +&#10;                        &quot;Higher readability eases reading effort and speed &quot; +&#10;                        &quot;for any reader, but it is especially important for &quot; +&#10;                        &quot;those who do not have high reading comprehension. &quot; +&#10;                        &quot;In readers with poor reading comprehension, raising &quot; +&#10;                        &quot;the readability level of a text from mediocre to good &quot; +&#10;                        &quot;can make the difference between success and failure&quot;)&#10;                .addArguments(&quot;input.txt&quot;)&#10;                .setInput(&quot;all&quot;),&#10;&#10;            new TestCase&lt;TestClue&gt;().setAttach(new TestClue(&#10;                137,&#10;                687,&#10;                14,&#10;                210,&#10;                17,&#10;                7.08,&#10;                6.31,&#10;                9.42,&#10;                10.66))&#10;                .addFile(&quot;in.txt&quot;,&#10;                    &quot;This is the front page of the Simple English &quot; +&#10;                        &quot;Wikipedia. Wikipedias are places where people work &quot; +&#10;                        &quot;together to write encyclopedias in different languages. &quot; +&#10;                        &quot;We use Simple English words and grammar here. The Simple &quot; +&#10;                        &quot;English Wikipedia is for everyone! That includes children &quot; +&#10;                        &quot;and adults who are learning English. There are 142,262 &quot; +&#10;                        &quot;articles on the Simple English Wikipedia. All of the pages &quot; +&#10;                        &quot;are free to use. They have all been published under both &quot; +&#10;                        &quot;the Creative Commons License &quot; +&#10;                        &quot;and the GNU Free Documentation License. You can help here! &quot; +&#10;                        &quot;You may change these pages and make new pages. Read the help &quot; +&#10;                        &quot;pages and other good pages to learn how to write pages here. &quot; +&#10;                        &quot;If you need help, you may ask questions at Simple talk. Use &quot; +&#10;                        &quot;Basic English vocabulary and shorter sentences. This allows &quot; +&#10;                        &quot;people to understand normally complex terms or phrases.&quot;)&#10;                .addArguments(&quot;in.txt&quot;)&#10;                .setInput(&quot;all&quot;),&#10;&#10;            new TestCase&lt;TestClue&gt;().setAttach(new TestClue(&#10;                180,&#10;                982,&#10;                13,&#10;                317,&#10;                34,&#10;                11.19,&#10;                10.59,&#10;                12.37,&#10;                14.14))&#10;                .addFile(&quot;in.txt&quot;,&#10;                    &quot;Gothic architecture are building designs, &quot; +&#10;                        &quot;as first pioneered in Western Europe in the Middle Ages. &quot; +&#10;                        &quot;It began in France in the 12th century. The Gothic style &quot; +&#10;                        &quot;grew out of Romanesque architecture. It lasted until the &quot; +&#10;                        &quot;16th century. By that time the Renaissance style of &quot; +&#10;                        &quot;architecture had become popular. The important features &quot; +&#10;                        &quot;of Gothic architecture are the pointed arch, the ribbed &quot; +&#10;                        &quot;vault, the flying buttress, and stained glass windows &quot; +&#10;                        &quot;which are explained below. &quot; +&#10;                        &quot;Gothic architecture is best known as the style of many &quot; +&#10;                        &quot;of the great cathedrals, abbeys and churches of Europe. &quot; +&#10;                        &quot;It is also the architecture of many castles, palaces, &quot; +&#10;                        &quot;town halls, universities, and also some houses. &quot; +&#10;                        &quot;Many church buildings still remain from this period. &quot; +&#10;                        &quot;Even the smallest Gothic churches are often very beautiful, &quot; +&#10;                        &quot;while many of the larger churches and cathedrals are &quot; +&#10;                        &quot;thought to be priceless works of art. Many are listed &quot; +&#10;                        &quot;with the United Nations Educational, Scientific and &quot; +&#10;                        &quot;Cultural Organization (UNESCO) as World Heritage Sites. &quot; +&#10;                        &quot;In the 19th century, the Gothic style became popular &quot; +&#10;                        &quot;again, particularly for building churches and universities. &quot; +&#10;                        &quot;This style is called Gothic Revival architecture.&quot;)&#10;                .addArguments(&quot;in.txt&quot;)&#10;                .setInput(&quot;all&quot;)&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, TestClue clue) {&#10;&#10;        boolean foundWords = false;&#10;        boolean foundSentences = false;&#10;        boolean foundChars = false;&#10;        boolean foundSyllables = false;&#10;        boolean foundPolysyllables = false;&#10;&#10;        boolean foundARI = false;&#10;        boolean foundFKT = false;&#10;        boolean foundSMG = false;&#10;        boolean foundCLI = false;&#10;&#10;        for (Object lineObj : reply.lines().toArray()) {&#10;            String initialLine = (String) lineObj;&#10;            String line = initialLine.toLowerCase();&#10;            if (line.contains(&quot;words:&quot;)) {&#10;                foundWords = true;&#10;                int words = Integer.parseInt(line.split(&quot;:&quot;)[1].strip());&#10;                if (abs(words - clue.words) &gt; 5) {&#10;                    return new CheckResult(false,&#10;                        &quot;Wrong number of words. &quot; +&#10;                            &quot;Should be &quot; + clue.words + &quot;, but found &quot; + words);&#10;                }&#10;            }&#10;            if (line.contains(&quot;sentences:&quot;)) {&#10;                foundSentences = true;&#10;                int sentences = Integer.parseInt(line.split(&quot;:&quot;)[1].strip());&#10;                if (abs(sentences - clue.sentences) &gt; 1) {&#10;                    return new CheckResult(false,&#10;                        &quot;Wrong number of sentences. &quot; +&#10;                            &quot;Should be &quot; + clue.sentences + &quot;, but found &quot; + sentences);&#10;                }&#10;            }&#10;            if (line.contains(&quot;characters:&quot;)) {&#10;                foundChars = true;&#10;                int characters = Integer.parseInt(line.split(&quot;:&quot;)[1].strip());&#10;                if (abs(characters - clue.characters) &gt; 10) {&#10;                    return new CheckResult(false,&#10;                        &quot;Wrong number of characters. &quot; +&#10;                            &quot;Should be &quot; + clue.characters + &quot;, but found &quot; + characters);&#10;                }&#10;            }&#10;            if (line.contains(&quot;polysyllables:&quot;)) {&#10;                foundPolysyllables = true;&#10;                int polysyllables = Integer.parseInt(line.split(&quot;:&quot;)[1].strip());&#10;                if (abs(polysyllables - clue.polysyllables) &gt; 5) {&#10;                    return new CheckResult(false,&#10;                        &quot;Wrong number of polysyllables. &quot; +&#10;                            &quot;Should be &quot; + clue.polysyllables + &quot;, but found &quot; + polysyllables);&#10;                }&#10;            } else if (line.contains(&quot;syllables:&quot;)) {&#10;                foundSyllables = true;&#10;                int syllables = Integer.parseInt(line.split(&quot;:&quot;)[1].strip());&#10;                if (abs(syllables - clue.syllables) &gt; 20) {&#10;                    return new CheckResult(false,&#10;                        &quot;Wrong number of syllables. &quot; +&#10;                            &quot;Should be &quot; + clue.syllables + &quot;, but found &quot; + syllables);&#10;                }&#10;            }&#10;&#10;            if (line.startsWith(&quot;automated readability index&quot;)) {&#10;                foundARI = true;&#10;                int rounded = (int) clue.ari;&#10;                String actual = Integer.toString(rounded);&#10;                String before = Integer.toString(rounded - 1);&#10;                String after = Integer.toString(rounded + 1);&#10;                if (!(line.contains(actual)&#10;                    || line.contains(before)&#10;                    || line.contains(after))) {&#10;                    return new CheckResult(false,&#10;                        &quot;Wrong Automated Readability Index score. &quot; +&#10;                            &quot;Should be around &quot; + clue.ari + &quot;, your output:\n&quot; + initialLine);&#10;                }&#10;                if (!line.contains(&quot;year olds&quot;)) {&#10;                    return new CheckResult(false,&#10;                        &quot;No age in Automated Readability Index&quot;);&#10;                }&#10;            }&#10;&#10;            if (line.startsWith(&quot;flesch–kincaid&quot;)) {&#10;                foundFKT = true;&#10;                int rounded = (int) clue.fkri;&#10;                String actual = Integer.toString(rounded);&#10;                String before = Integer.toString(rounded - 1);&#10;                String after = Integer.toString(rounded + 1);&#10;                if (!(line.contains(actual)&#10;                    || line.contains(before)&#10;                    || line.contains(after))) {&#10;                    return new CheckResult(false,&#10;                        &quot;Wrong Flesch–Kincaid score. &quot; +&#10;                            &quot;Should be around &quot; + clue.fkri + &quot;, your output:\n&quot; + initialLine);&#10;                }&#10;                if (!line.contains(&quot;year olds&quot;)) {&#10;                    return new CheckResult(false,&#10;                        &quot;No age in Flesch–Kincaid&quot;);&#10;                }&#10;            }&#10;&#10;            if (line.startsWith(&quot;simple measure of gobbledygook&quot;)) {&#10;                foundSMG = true;&#10;                int rounded = (int) clue.smog;&#10;                String actual = Integer.toString(rounded);&#10;                String before = Integer.toString(rounded - 1);&#10;                String after = Integer.toString(rounded + 1);&#10;                if (!(line.contains(actual)&#10;                    || line.contains(before)&#10;                    || line.contains(after))) {&#10;                    return new CheckResult(false,&#10;                        &quot;Wrong Simple Measure of Gobbledygook score. &quot; +&#10;                            &quot;Should be around &quot; + clue.smog + &quot;, your output:\n&quot; + initialLine);&#10;                }&#10;                if (!line.contains(&quot;year olds&quot;)) {&#10;                    return new CheckResult(false,&#10;                        &quot;No age in Simple Measure of Gobbledygook&quot;);&#10;                }&#10;            }&#10;&#10;            if (line.startsWith(&quot;coleman–liau&quot;)) {&#10;                foundCLI = true;&#10;                int rounded = (int) clue.cli;&#10;                String actual = Integer.toString(rounded);&#10;                String before = Integer.toString(rounded - 1);&#10;                String after = Integer.toString(rounded + 1);&#10;                if (!(line.contains(actual)&#10;                    || line.contains(before)&#10;                    || line.contains(after))) {&#10;                    return new CheckResult(false,&#10;                        &quot;Wrong Coleman–Liau score. &quot; +&#10;                            &quot;Should be around &quot; + clue.cli + &quot;, your output:\n&quot; + initialLine);&#10;                }&#10;                if (!line.contains(&quot;year olds&quot;)) {&#10;                    return new CheckResult(false,&#10;                        &quot;No age in Coleman–Liau&quot;);&#10;                }&#10;            }&#10;        }&#10;&#10;        if (!foundWords) {&#10;            return new CheckResult(false,&#10;                &quot;There is no words amount&quot;);&#10;        }&#10;&#10;        if (!foundSentences) {&#10;            return new CheckResult(false,&#10;                &quot;There is no sentences amount&quot;);&#10;        }&#10;&#10;        if (!foundChars) {&#10;            return new CheckResult(false,&#10;                &quot;There is no characters amount&quot;);&#10;        }&#10;&#10;        if (!foundSyllables) {&#10;            return new CheckResult(false,&#10;                &quot;There is no syllables in output&quot;);&#10;        }&#10;&#10;        if (!foundPolysyllables) {&#10;            return new CheckResult(false,&#10;                &quot;There is no polysyllables in output&quot;);&#10;        }&#10;&#10;        if (!foundARI) {&#10;            return new CheckResult(false,&#10;                &quot;There is no Automated Readability Index in output&quot;);&#10;        }&#10;&#10;        if (!foundFKT) {&#10;            return new CheckResult(false,&#10;                &quot;There is no Flesch–Kincaid readability tests in output&quot;);&#10;        }&#10;&#10;        if (!foundSMG) {&#10;            return new CheckResult(false,&#10;                &quot;There is no Simple Measure of Gobbledygook in output&quot;);&#10;        }&#10;&#10;        if (!foundCLI) {&#10;            return new CheckResult(false,&#10;                &quot;There is no Coleman–Liau index in output&quot;);&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/readability/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/readability/Main.java" />
+                                <option name="text" value="package readability;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;&#10;        String text = scanner.nextLine();&#10;&#10;        String[] sentences = text.trim().split(&quot;(!|\\?|\\.)&quot;);&#10;        double avSentenceLength = 0;&#10;        for(String sentence : sentences) {&#10;            String[] words = sentence.trim().split(&quot;\\s&quot;);&#10;            avSentenceLength += words.length;&#10;        }&#10;        avSentenceLength /= sentences.length;&#10;        if(avSentenceLength &gt; 10) {&#10;            System.out.println(&quot;HARD&quot;);&#10;        } else {&#10;            System.out.println(&quot;EASY&quot;);&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/readability/ARIndex.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/readability/ARIndex.java" />
+                                <option name="text" value="package readability;&#10;&#10;public class ARIndex implements Strategy{&#10;    public void calculateIndex(String text) {&#10;        String[] sentences = text.trim().split(&quot;(!|\\?|\\.)&quot;);&#10;        String[] words = text.split(&quot;\\s+&quot;);&#10;&#10;        double cntSentences = sentences.length;&#10;        double cntWords = words.length;&#10;        double cntCharacters = 0;&#10;        for(String word : words) {&#10;            cntCharacters += word.trim().length();&#10;        }&#10;&#10;        double score = 4.71 * cntCharacters / cntWords + 0.5 * cntWords / cntSentences - 21.43;&#10;&#10;        printData(text, cntSentences, cntWords, cntCharacters, score);&#10;    }&#10;&#10;    private void printData(String text, double sentences, double words, double characters, double score) {&#10;        System.out.println(&quot;The text is: &quot;);&#10;        System.out.println(text);&#10;        System.out.println();&#10;        System.out.println(&quot;Words: &quot; + (int)words);&#10;        System.out.println(&quot;Sentences: &quot; + (int)sentences);&#10;        System.out.println(&quot;Characters: &quot; + (int)characters);&#10;        System.out.println(String.format(&quot;The score is: %.2f&quot; , score));&#10;        System.out.println(String.format(&quot;This text should be understood by %s year olds.&quot;, defineAges(score)));&#10;    }&#10;&#10;    private String defineAges(double dScore) {&#10;        long score = Math.round(dScore);&#10;        switch ((int)score) {&#10;            case 1:&#10;                return &quot;5-6&quot;;&#10;            case 2:&#10;                return &quot;6-7&quot;;&#10;            case 3:&#10;                return &quot;7-9&quot;;&#10;            case 4:&#10;                return &quot;9-10&quot;;&#10;            case 5:&#10;                return &quot;10-11&quot;;&#10;            case 6:&#10;                return &quot;11-12&quot;;&#10;            case 7:&#10;                return &quot;12-13&quot;;&#10;            case 8:&#10;                return &quot;13-14&quot;;&#10;            case 9:&#10;                return &quot;14-15&quot;;&#10;            case 10:&#10;                return &quot;15-16&quot;;&#10;            case 11:&#10;                return &quot;16-17&quot;;&#10;            case 12:&#10;                return &quot;17-18&quot;;&#10;            case 13:&#10;                return &quot;18-24&quot;;&#10;            case 14:&#10;                return &quot;24+&quot;;&#10;&#10;            default:&#10;                return &quot;Undefined age&quot;;&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/readability/Strategy.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/readability/Strategy.java" />
+                                <option name="text" value="package readability;&#10;&#10;public interface Strategy {&#10;    public void calculateIndex(String text);&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/readability/ContextIndex.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/readability/ContextIndex.java" />
+                                <option name="text" value="package readability;&#10;&#10;public class ContextIndex {&#10;    Strategy strategy;&#10;&#10;    public void setStrategy(Strategy strategy) {&#10;        this.strategy = strategy;&#10;    }&#10;&#10;    public void calculateIndex(String text) {&#10;        this.strategy.calculateIndex(text);&#10;    }&#10;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/readability/FKIndex.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/readability/FKIndex.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/readability/SMOGIndex.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/readability/SMOGIndex.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/readability/CLIndex.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/readability/CLIndex.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </EduTask>
+                  </list>
+                </option>
+              </FrameworkLesson>
+              <Lesson>
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="2" />
+                <option name="name" value="Problems" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
+                <option name="items">
+                  <list>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Ternary operator&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2400&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;Let's combine function to build more complex functions using standard functional interfaces.&lt;br&gt;&lt;/p&gt;&#10;  &lt;p&gt;Given the predicate &lt;code class=&quot;java&quot;&gt;condition&lt;/code&gt; and two functions &lt;code class=&quot;java&quot;&gt;ifTrue&lt;/code&gt; and &lt;code class=&quot;java&quot;&gt;ifFalse&lt;/code&gt;. Implement a method &lt;code class=&quot;java&quot;&gt;ternaryOperator&lt;/code&gt; which builds a new function returning the result of invoking &lt;code class=&quot;java&quot;&gt;ifTrue&lt;/code&gt;, if the predicate is true and otherwise - the result of invoking &lt;code class=&quot;java&quot;&gt;ifFalse&lt;/code&gt;.&lt;/p&gt;&#10;  &lt;p&gt;Here is an example:&lt;/p&gt; &#10;  &lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;Predicate&amp;lt;Object&amp;gt; condition = Objects::isNull;&#10;Function&amp;lt;Object, Integer&amp;gt; ifTrue = obj -&amp;gt; 0;&#10;Function&amp;lt;CharSequence, Integer&amp;gt; ifFalse = CharSequence::length;&#10;Function&amp;lt;String, Integer&amp;gt; safeStringLength = ternaryOperator(condition, ifTrue, ifFalse);&lt;/code&gt;&lt;/pre&gt;&#10;  &lt;p&gt;&lt;span&gt;In the example above, the resulting function returns the length of a string if the reference to the string is not null, otherwise, it returns 0.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&#10;  &lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&#10;  &lt;p&gt;Note, it can be collapsed into a single line, but for clarity, additional variables are used.&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3623&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2400" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2400" />
+                      <option name="index" value="1" />
+                      <option name="name" value="Ternary operator" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Failed" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="public static &lt;T, U&gt; Function&lt;T, U&gt; ternaryOperator(&#10;        Predicate&lt;? super T&gt; condition,&#10;        Function&lt;? super T, ? extends U&gt; ifTrue,&#10;        Function&lt;? super T, ? extends U&gt; ifFalse) {&#10;&#10;    return null; // your implementation here&#10;&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                  </list>
+                </option>
+              </Lesson>
+            </list>
+          </option>
+        </HyperskillCourse>
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>
